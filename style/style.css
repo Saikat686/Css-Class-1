@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,300&display=swap');
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+.sub{
+    background-color: #FFFFFF;
+    width: 304px;
+    height: 478px;
+}
+
+.main .save span{
+    background-color: #6e2594;
+    color: #fff;
+    height: 388px;
+    width: 252px;
+    text-align: center;
+    border-radius: 0 10px 10px 0;
+}
+.main .img{
+    text-align: center;
+}
+
+a{
+    font-family: 'Nunito', sans-serif;
+    color: rgb(17, 17, 17);
+}
+
+
+
+.price .new{
+    color: rgb(239, 74, 35);
+    font-size: larger;
+}
+
+.price .old{
+   text-decoration: line-through;
+   color: rgb(102, 102, 102);
+   font-size: small;
+}
+
